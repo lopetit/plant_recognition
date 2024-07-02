@@ -1,0 +1,3 @@
+[submodule "thirdparty/pybioclip"]
+	path = thirdparty/pybioclip
+	url = https://github.com/yanis-falaki/pybioclip
