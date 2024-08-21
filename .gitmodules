@@ -1,3 +1,6 @@
 [submodule "thirdparty/pybioclip"]
 	path = thirdparty/pybioclip
 	url = https://github.com/yanis-falaki/pybioclip
+[submodule "thirdparty/YOLO-World"]
+	path = thirdparty/YOLO-World
+	url = https://github.com/AILab-CVC/YOLO-World
